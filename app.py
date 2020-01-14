@@ -5,6 +5,7 @@
 # import matplotlib
 # from IPython.display import Image
 import requests
+import time
 
 print("- - - - - - ISS-tracker - - - - - -")
 # TODO: All the app itself
