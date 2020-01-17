@@ -9,6 +9,7 @@ print("\U0001f52d - - - - - - - - \U0001f6f0 ISS-tracker \U0001f4e1 - - - - - - 
 print(Fore.WHITE + "*                 Version 1.0.0                 *")
 print(Style.RESET_ALL, end='')
 
+print("")
 seconds = 1
 seconds = int(input("* Type the number of seconds you want to wait to update the trace: "))
 
